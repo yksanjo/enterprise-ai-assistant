@@ -1,5 +1,12 @@
 # enterprise-ai-assistant
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/enterprise-ai-assistant/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/enterprise-ai-assistant/actions)
+![License](https://img.shields.io/github/license/yksanjo/enterprise-ai-assistant)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/enterprise-ai-assistant)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/enterprise-ai-assistant)
+
 ## Detailed Description
 
 enterprise-ai-assistant is maintained as an industry-grade software project with production-ready engineering practices.  
